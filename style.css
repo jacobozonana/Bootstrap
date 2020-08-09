@@ -1,0 +1,19 @@
+body {
+  background-image: url("fondo.jpg");
+  background-size: cover;
+     }
+
+.fondonav{
+background-color: black;
+}
+.textonav{
+	color: white;
+}
+.sizefoto{
+	height: 200px;
+	width: 200px;
+}
+.flex-container{
+	display: flex;
+	justify-content: center;
+}
